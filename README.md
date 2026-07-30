@@ -1,24 +1,20 @@
 <div align="center">
 
-👋 Hey, I'm Yosab Fouad
+Hi 👋 I'm Yosab Fouad
 
 Software Engineering Student • Aspiring React Native Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1500&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+Every+Day;Future+React+Native+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+Every+Day;Future+React+Native+Developer"/>
 
-<p>
-<a href="https://github.com/YYousabFouad"><img src="https://komarev.com/ghpvc/?username=YYousabFouad&style=flat-square&color=blue" /></a>
-</p>
+Learn • Build • Improve • Repeat
 
 </div>
 
 🚀 About Me
 
-I'm a Software Engineering student passionate about Mobile Development and modern software engineering.
+I'm a Software Engineering student passionate about Mobile Development.
 
-Currently I'm learning Node.js, Express.js, MongoDB, NestJS, REST APIs, and System Design while preparing to build high-quality React Native applications.
-
-I enjoy building real-world projects, solving problems, and continuously improving my engineering skills.
+Currently learning Node.js, Express.js, MongoDB, NestJS, REST APIs, React Native, and System Design while building real-world projects and continuously improving my software engineering skills.
 
 💻 Languages
 
@@ -40,13 +36,7 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-📱 Mobile
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-Learning-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-</p>
-
-⚙️ Backend (Currently Learning)
+🚀 Currently Learning
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -54,6 +44,8 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/System_Design-6f42c1?style=flat-square"/>
 </p>
 
 🧠 Computer Science
@@ -61,7 +53,6 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 <p>
 <img src="https://img.shields.io/badge/Data_Structures-2E8B57?style=flat-square"/>
 <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/System_Design-Learning-6f42c1?style=flat-square"/>
 </p>
 
 🛠️ Tools
@@ -74,23 +65,27 @@ I enjoy building real-world projects, solving problems, and continuously improvi
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white"/>
 </p>
 
-📌 Current Learning
-
-🚀 Backend Development
-
-🏗️ System Design
-
-📱 React Native (next major focus)
-
 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YYousabFouad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YYousabFouad&theme=tokyo-night&hide_border=true"/>
 </p>
 
 🌐 Connect
