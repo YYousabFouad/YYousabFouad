@@ -2,61 +2,37 @@
 
 👋 Hey, I'm Yosab Fouad
 
-Software Engineering Student • Mobile & Full Stack Developer
+Software Engineering Student • Aspiring Mobile & Backend Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;React+Native+Learner;Generative+AI+Explorer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Building+Real-World+Projects;Always+Learning;Future+React+Native+Developer;Clean+Code+%7C+Problem+Solver"/>
 
-<br>
-
-"Learn • Build • Improve • Repeat"
+"Learn • Build • Improve • Repeat."
 
 </div>
 
 🚀 About Me
 
-I'm a Software Engineering student who enjoys turning ideas into real applications.
+I'm a Software Engineering student who enjoys understanding how software works from the ground up—not just using frameworks, but learning the concepts behind them.
 
-My main interests are Mobile Development, Backend Development, and Generative AI. I like understanding how things work behind the scenes instead of only using them.
+My journey started with programming fundamentals and computer science, then moved into modern web development. Right now I'm focused on building backend applications with Node.js while preparing for React Native and System Design.
 
-Currently, I'm strengthening my software engineering foundation by building projects, practicing Data Structures & Algorithms, and learning React Native.
-
-<table>
-<tr>
-<td>
+I enjoy building projects, solving problems, and continuously improving my engineering skills one step at a time.
 
 🎯 Current Focus
 
-📱 React Native
+⚙️ Backend Development (Node.js, Express.js)
 
-⚙️ Node.js & Express
-
-🤖 Generative AI
-
-🧠 Data Structures & Algorithms
+🗄️ MongoDB & REST APIs
 
 🏗️ System Design
 
-</td>
+📱 Preparing for React Native
 
-<td>
-
-💡 Philosophy
-
-✔ Learn deeply
-
-✔ Build consistently
-
-✔ Write clean code
-
-✔ Never stop improving
-
-</td>
-</tr>
-</table>
+💡 Building portfolio-quality projects
 
 🧰 Tech Stack
 
-💻 Languages
+💻 Programming Languages
 
 
 
@@ -64,15 +40,11 @@ Currently, I'm strengthening my software engineering foundation by building proj
 
 
 
-⚙️ Backend
+📚 Computer Science
 
 
 
-📱 Mobile
-
-
-
-🤖 AI
+🚀 Currently Learning
 
 
 
@@ -80,33 +52,15 @@ Currently, I'm strengthening my software engineering foundation by building proj
 
 
 
-📚 Currently Learning
+📌 Featured Projects
 
-📱 React Native
+Replace these with your best repositories.
 
-🧠 Data Structures & Algorithms
+🌐 Full Stack Applications
 
-🤖 Generative AI (RAG • Fine-Tuning • AI Agents)
+⚙️ REST API Projects
 
-🏗️ System Design
-
-🚀 Featured Projects
-
-Project
-
-Tech
-
-Node.js REST APIs
-
-Node.js • Express • MongoDB
-
-React Native Apps
-
-React Native
-
-Generative AI Experiments
-
-RAG • AI Agents
+📱 React Native Projects (Coming Soon)
 
 📊 GitHub Analytics
 
@@ -132,6 +86,6 @@ RAG • AI Agents
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting! ⭐
 
 </div>
