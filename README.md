@@ -1,13 +1,11 @@
 <div align="center">
 
-👋 Hi, I'm Yosab Fouad
+👋 Hey, I'm Yosab Fouad
 
 Software Engineering Student • Mobile & Full Stack Developer
 
 <p>
-  <a href="https://github.com/YYousabFouad">
-    <img src="https://komarev.com/ghpvc/?username=YYousabFouad&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+React+Native;Exploring+Generative+AI;Future+System+Designer" />
 </p>
 
 </div>
@@ -16,37 +14,50 @@ $ git status
 
 On branch main
 
-✔ Building Full-Stack & Mobile Projects
+✔ Building Full Stack Projects
 ✔ Learning React Native
 ✔ Exploring Generative AI
-✔ Next Target: System Design
+✔ Using Fedora Linux
+
+Next milestone ➜ System Design
 
 Working tree clean 🚀
 
 👨‍💻 About Me
 
-const yosab = {
-  name: "Yosab Fouad",
-  role: "Software Engineering Student",
-  location: "Egypt 🇪🇬",
+I enjoy turning ideas into real applications.My current journey is focused on React Native, Full Stack Development, and Generative AI.I believe the best way to learn is by building projects, solving problems, and improving a little every day.
 
-  focus: [
-    "Mobile Development",
-    "Full Stack Development",
-    "Generative AI"
-  ],
+<table>
+<tr>
+<td>
 
-  currentlyLearning: [
-    "React Native",
-    "System Design"
-  ],
+🎓 Software Engineering Student
 
-  os: "Fedora Linux",
+📱 Learning React Native
 
-  motto: "Learn • Build • Improve • Repeat"
+🤖 Exploring Generative AI
+
+🌱 Improving DSA every week
+
+🐧 Fedora Linux user
+
+🚀 Goal: Become a Professional Mobile Engineer
+
+</td>
+<td>
+
+const currentFocus = {
+  mobile: "React Native",
+  backend: "Node.js + Express",
+  ai: "Generative AI",
+  next: "System Design"
 }
 
-🎓 Learning Journey
+</td>
+</tr>
+</table>
+
+🎯 Learning Journey
 
 ✅ Completed
 
@@ -56,11 +67,29 @@ const yosab = {
 
 
 
-🎯 Next Goal
+🎯 Next
 
 
 
-📊 GitHub Stats
+🚀 Featured Projects
+
+Project
+
+Description
+
+📱 React Native Apps
+
+Mobile applications built while learning React Native
+
+🌐 Full Stack Apps
+
+Node.js + Express + MongoDB projects
+
+🤖 GenAI Experiments
+
+RAG, AI Agents and LLM practice projects
+
+📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight"/>
@@ -75,11 +104,11 @@ const yosab = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YYousabFouad&theme=tokyo-night"/>
 </p>
 
-🌐 Connect With Me
+🌐 Connect
 
 <p align="center">
-<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <div align="center">
