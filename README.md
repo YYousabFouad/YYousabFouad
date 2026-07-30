@@ -78,20 +78,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/YYousabFouad?label=Followers&style=for-the-badge&logo=github&color=61DAFB&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYYousabFouad&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=61DAFB&labelColor=1a1b27"/>
 </p>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YYousabFouad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://img.shields.io/badge/Always-Learning-6f42c1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Mobile_Development-E0234E?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Building-Real--World_Projects-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-Collaboration-009688?style=for-the-badge"/>
 </p>
 
 <br/>
