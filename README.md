@@ -4,90 +4,109 @@
 
 Software Engineering Student • Mobile & Full Stack Developer
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+React+Native;Exploring+Generative+AI;Future+System+Designer" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;React+Native+Learner;Generative+AI+Explorer;Always+Learning+Something+New"/>
+
+<br>
+
+"Learn • Build • Improve • Repeat"
 
 </div>
 
-$ git status
+🚀 About Me
 
-On branch main
+I'm a Software Engineering student who enjoys turning ideas into real applications.
 
-✔ Building Full Stack Projects
-✔ Learning React Native
-✔ Exploring Generative AI
-✔ Using Fedora Linux
+My main interests are Mobile Development, Backend Development, and Generative AI. I like understanding how things work behind the scenes instead of only using them.
 
-Next milestone ➜ System Design
-
-Working tree clean 🚀
-
-👨‍💻 About Me
-
-I enjoy turning ideas into real applications.My current journey is focused on React Native, Full Stack Development, and Generative AI.I believe the best way to learn is by building projects, solving problems, and improving a little every day.
+Currently, I'm strengthening my software engineering foundation by building projects, practicing Data Structures & Algorithms, and learning React Native.
 
 <table>
 <tr>
 <td>
 
-🎓 Software Engineering Student
+🎯 Current Focus
 
-📱 Learning React Native
+📱 React Native
 
-🤖 Exploring Generative AI
+⚙️ Node.js & Express
 
-🌱 Improving DSA every week
+🤖 Generative AI
 
-🐧 Fedora Linux user
+🧠 Data Structures & Algorithms
 
-🚀 Goal: Become a Professional Mobile Engineer
+🏗️ System Design
 
 </td>
+
 <td>
 
-const currentFocus = {
-  mobile: "React Native",
-  backend: "Node.js + Express",
-  ai: "Generative AI",
-  next: "System Design"
-}
+💡 Philosophy
+
+✔ Learn deeply
+
+✔ Build consistently
+
+✔ Write clean code
+
+✔ Never stop improving
 
 </td>
 </tr>
 </table>
 
-🎯 Learning Journey
+🧰 Tech Stack
 
-✅ Completed
-
-
-
-🚀 Currently Learning
+💻 Languages
 
 
 
-🎯 Next
+🌐 Frontend
 
 
+
+⚙️ Backend
+
+
+
+📱 Mobile
+
+
+
+🤖 AI
+
+
+
+🛠 Tools
+
+
+
+📚 Currently Learning
+
+📱 React Native
+
+🧠 Data Structures & Algorithms
+
+🤖 Generative AI (RAG • Fine-Tuning • AI Agents)
+
+🏗️ System Design
 
 🚀 Featured Projects
 
 Project
 
-Description
+Tech
 
-📱 React Native Apps
+Node.js REST APIs
 
-Mobile applications built while learning React Native
+Node.js • Express • MongoDB
 
-🌐 Full Stack Apps
+React Native Apps
 
-Node.js + Express + MongoDB projects
+React Native
 
-🤖 GenAI Experiments
+Generative AI Experiments
 
-RAG, AI Agents and LLM practice projects
+RAG • AI Agents
 
 📊 GitHub Analytics
 
@@ -104,15 +123,15 @@ RAG, AI Agents and LLM practice projects
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YYousabFouad&theme=tokyo-night"/>
 </p>
 
-🌐 Connect
+🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <div align="center">
 
-⭐ Learn • Build • Improve • Repeat
+⭐ Thanks for visiting my profile!
 
 </div>
