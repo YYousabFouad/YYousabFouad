@@ -1,38 +1,26 @@
 <div align="center">
 
-👋 Hey, I'm Yosab Fouad
+👋 Yosab Fouad
 
-Software Engineering Student • Aspiring Mobile & Backend Engineer
+Software Engineering Student • Backend Developer • Future React Native Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=750&lines=Building+Real-World+Projects;Always+Learning;Future+React+Native+Developer;Clean+Code+%7C+Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&center=true&vCenter=true&width=700&lines=Backend+Developer;Software+Engineering+Student;Always+Learning;Building+Real+Projects" />
 
-"Learn • Build • Improve • Repeat."
+Learn • Build • Improve • Repeat
 
 </div>
 
 🚀 About Me
 
-I'm a Software Engineering student who enjoys understanding how software works from the ground up—not just using frameworks, but learning the concepts behind them.
+I'm a Software Engineering student passionate about building scalable applications and solving real-world problems.
 
-My journey started with programming fundamentals and computer science, then moved into modern web development. Right now I'm focused on building backend applications with Node.js while preparing for React Native and System Design.
+I enjoy understanding how software works under the hood—from computer science fundamentals to backend development and modern web technologies.
 
-I enjoy building projects, solving problems, and continuously improving my engineering skills one step at a time.
+Currently, I'm focusing on Node.js, MongoDB, Express.js, NestJS, REST APIs, and System Design, while building projects that strengthen my software engineering skills.
 
-🎯 Current Focus
+💻 Tech Stack
 
-⚙️ Backend Development (Node.js, Express.js)
-
-🗄️ MongoDB & REST APIs
-
-🏗️ System Design
-
-📱 Preparing for React Native
-
-💡 Building portfolio-quality projects
-
-🧰 Tech Stack
-
-💻 Programming Languages
+🧠 Programming Languages
 
 
 
@@ -40,11 +28,11 @@ I enjoy building projects, solving problems, and continuously improving my engin
 
 
 
+⚙️ Backend (Learning)
+
+
+
 📚 Computer Science
-
-
-
-🚀 Currently Learning
 
 
 
@@ -52,13 +40,25 @@ I enjoy building projects, solving problems, and continuously improving my engin
 
 
 
+📈 Learning Journey
+
+Programming Fundamentals ✅
+        ↓
+Web Development ✅
+        ↓
+Frontend Development ✅
+        ↓
+Backend Development 🔄
+        ↓
+System Design 🔄
+        ↓
+React Native ⏳
+
 📌 Featured Projects
 
-Replace these with your best repositories.
+🚀 Backend REST APIs
 
 🌐 Full Stack Applications
-
-⚙️ REST API Projects
 
 📱 React Native Projects (Coming Soon)
 
@@ -66,26 +66,22 @@ Replace these with your best repositories.
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight"/>
+</p>
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YYousabFouad&theme=tokyonight"/>
-</p>
+🌐 Connect
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YYousabFouad&theme=tokyo-night"/>
-</p>
-
-🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YYousabFouad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 <div align="center">
 
-Thanks for visiting! ⭐
+⭐ Thanks for visiting my profile!
 
 </div>
