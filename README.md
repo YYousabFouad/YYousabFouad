@@ -83,13 +83,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img
-  width="60%"
-  src="./profile/streak.svg"
-  alt="GitHub Streak Stats"
-/>
-
+  <img
+    width="60%"
+    src="./profile/streak.svg"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 <br/>
