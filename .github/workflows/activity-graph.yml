@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - ".github/workflows/activity-graph.yml"
+      - ".github/scripts/generate_activity_graph.py"
 
   workflow_dispatch:
 
@@ -21,11 +22,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution graph
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: profile/activity-graph.svg?palette=github-dark
+      - name: Generate smooth contribution graph
+        run: python3 .github/scripts/generate_activity_graph.py
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
 
       - name: Commit contribution graph
         run: |
