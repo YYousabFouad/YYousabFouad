@@ -1,4 +1,4 @@
-from datetime import date, datetime
+from datetime import datetime, timedelta
 from html import escape
 from html.parser import HTMLParser
 import math
@@ -58,6 +58,11 @@ def fetch_contributions(username):
     points.sort(key=lambda item: item[0])
     if len(points) < 300:
         raise RuntimeError(f"Expected a year of contribution data, found only {len(points)} days")
+    latest_day = points[-1][0]
+    first_day = latest_day - timedelta(days=364)
+    points = [point for point in points if point[0] >= first_day]
+    if len(points) != 365:
+        raise RuntimeError(f"Expected 365 contribution days, found {len(points)}")
     return points
 
 
@@ -81,12 +86,20 @@ def make_svg(username, contributions):
     width, height = 960, 300
     left, right, top, bottom = 52, 24, 60, 238
     plot_width, plot_height = width - left - right, bottom - top
-    maximum = max(1, max(count for _, count in contributions))
-    total = sum(count for _, count in contributions)
+    raw_counts = [count for _, count in contributions]
+    total = sum(raw_counts)
+    window_days = 7
+    smoothed_counts = []
+    for index in range(len(raw_counts)):
+        window_start = max(0, index - window_days // 2)
+        window_end = min(len(raw_counts), index + window_days // 2 + 1)
+        smoothed_counts.append(sum(raw_counts[window_start:window_end]) / (window_end - window_start))
+
+    maximum = max(1, max(smoothed_counts))
     x_step = plot_width / (len(contributions) - 1)
 
     points = []
-    for index, (_, count) in enumerate(contributions):
+    for index, count in enumerate(smoothed_counts):
         scaled = math.sqrt(count / maximum)
         points.append((left + index * x_step, bottom - scaled * plot_height))
 
@@ -107,7 +120,7 @@ def make_svg(username, contributions):
     start_label = contributions[0][0].strftime("%b %d, %Y")
     end_label = contributions[-1][0].strftime("%b %d, %Y")
     title = escape(f"{username}’s GitHub contribution activity")
-    description = escape(f"{total} contributions from {start_label} to {end_label}.")
+    description = escape(f"{total} contributions from {start_label} to {end_label}, shown as a 7-day smoothed curve.")
     last_x, last_y = points[-1]
     output = Path("profile/activity-graph.svg")
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -130,7 +143,7 @@ def make_svg(username, contributions):
     .grid {{ stroke: #cbd5e1; stroke-opacity: 0.55; stroke-width: 1; }}
   </style>
   <text class="title" x="{left}" y="27">Contribution activity</text>
-  <text class="summary" x="{width-right}" y="27" text-anchor="end">{total:,} contributions in the last year</text>
+  <text class="summary" x="{width-right}" y="27" text-anchor="end">{total:,} contributions · 7-day smooth</text>
   <g class="grid">{''.join(grid)}</g>
   <path d="{area}" fill="url(#area)"/>
   <path d="{line}" fill="none" stroke="#7aa2f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
