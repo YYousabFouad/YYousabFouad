@@ -88,10 +88,10 @@ def make_svg(username, contributions):
     plot_width, plot_height = width - left - right, bottom - top
     raw_counts = [count for _, count in contributions]
     total = sum(raw_counts)
-    window_days = 15
+    window_days = 30
     smoothed_counts = []
     for index in range(len(raw_counts)):
-        window_start = max(0, index - window_days // 2)
+        window_start = max(0, index - (window_days - 1) // 2)
         window_end = min(len(raw_counts), index + window_days // 2 + 1)
         smoothed_counts.append(sum(raw_counts[window_start:window_end]) / (window_end - window_start))
 
@@ -120,7 +120,7 @@ def make_svg(username, contributions):
     start_label = contributions[0][0].strftime("%b %d, %Y")
     end_label = contributions[-1][0].strftime("%b %d, %Y")
     title = escape(f"{username}’s GitHub contribution activity")
-    description = escape(f"{total} contributions from {start_label} to {end_label}, shown as a 15-day smoothed curve.")
+    description = escape(f"{total} contributions from {start_label} to {end_label}, shown as a 30-day smoothed curve.")
     last_x, last_y = points[-1]
     output = Path("profile/activity-graph.svg")
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -143,7 +143,7 @@ def make_svg(username, contributions):
     .grid {{ stroke: #cbd5e1; stroke-opacity: 0.55; stroke-width: 1; }}
   </style>
   <text class="title" x="{left}" y="27">Contribution activity</text>
-  <text class="summary" x="{width-right}" y="27" text-anchor="end">{total:,} contributions · 15-day smooth</text>
+  <text class="summary" x="{width-right}" y="27" text-anchor="end">{total:,} contributions · 30-day smooth</text>
   <g class="grid">{''.join(grid)}</g>
   <path d="{area}" fill="url(#area)"/>
   <path d="{line}" fill="none" stroke="#7aa2f7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
