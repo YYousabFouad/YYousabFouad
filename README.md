@@ -114,7 +114,7 @@
 
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YYousabFouad&theme=tokyo-night&hide_border=true"
+  src="./profile/activity-graph.svg"
   alt="GitHub Contribution Graph"
 />
 
