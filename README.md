@@ -1,145 +1,169 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Yosab Fouad
 
-### Software Engineering Student • Aspiring React Native Developer
+### Software Engineering Student | Aspiring React Native Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+Something+New+Every+Day;Future+React+Native+Developer" alt="Typing SVG" />
+Building useful applications, exploring software architecture, and growing as a developer one project at a time.
 
-**Code • Learn • Build • Repeat 🚀**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Exploring+Mobile+%26+Backend+Development;Learning+Something+New+Every+Day" alt="Typing SVG" />
+
+**Code • Learn • Build • Improve 🚀**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosab-fouad-43b49a2b1)
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
-- 📍 Based in Egypt
-- 🎓 Software Engineering student
-- 📱 Passionate about building mobile applications with **React Native**
-- 🌱 Currently learning **Node.js, Express.js, MongoDB, NestJS, REST APIs & System Design**
-- 💡 I learn best by building real-world projects and continuously improving my skills
+- 🎓 Software Engineering student based in Egypt.
+- 📱 Interested in building cross-platform mobile applications with **React Native**.
+- ⚙️ Exploring backend development with **Node.js, Express.js, NestJS, and MongoDB**.
+- 🧠 Strengthening my understanding of data structures, algorithms, and software architecture.
+- 🛠️ I enjoy learning by building projects, solving problems, and experimenting with new tools.
+- 🤝 Open to collaboration, knowledge sharing, and opportunities to grow as a software engineer.
 
-<br/>
+My goal is to build reliable, maintainable, and user-focused software while continuously improving my engineering skills.
 
-## 🧰 Tech Stack
+---
 
-### Languages
+## 🧰 Technologies & Tools
+
+### Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" alt="Assembly"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 ### Mobile Development
 
 <p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
-### Backend & Currently Learning
+### Backend Development
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs"/>
 </p>
 
-### Computer Science
+### Computer Science & Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Data_Structures-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Structures-2E8B57?style=for-the-badge" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-2E8B57?style=for-the-badge" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/System_Design-6F42C1?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Software_Architecture-6F42C1?style=for-the-badge" alt="Software Architecture"/>
 </p>
 
-### Tools
+### Developer Tools & Environment
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux"/>
 </p>
 
-<br/>
+---
+
+## 🚀 Featured Projects
+
+Here are some projects and areas of development I'm working on.
+
+### 📝 Blog API
+
+A backend project focused on building RESTful APIs, organizing application modules, and working with databases.
+
+**Technologies:** NestJS · TypeScript · MongoDB
+
+[![Blog API](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/blog-api)
+
+### 🚗 AI-Based Vehicle Fault Detection & Predictive Maintenance
+
+A graduation project concept that aims to analyze vehicle diagnostic information and user-reported symptoms to identify potential faults and provide useful maintenance recommendations.
+
+**Focus areas:** AI · Vehicle Diagnostics · Backend APIs · Database Design
+
+### ⚙️ Git Learning Documentation
+
+A documentation repository for learning Git and GitHub, organizing notes, and improving development workflows.
+
+[![Git Documentation](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/Git_Studying_Documentation-notes)
+
+---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    width="60%"
-    src="./profile/streak.svg"
-    alt="GitHub Streak Stats"
-  />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/>
 
-## 🏆 Highlights
+<img width="70%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Always-Learning-6f42c1?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Focus-Mobile_Development-E0234E?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Building-Real--World_Projects-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_to-Collaboration-009688?style=for-the-badge"/>
-
-</p>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img
-  width="95%"
-  src="./profile/activity-graph.svg"
-  alt="GitHub Contribution Graph"
-/>
-
-</p>
-
-<br/>
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YYousabFouad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yosab-fouad-43b49a2b1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
-<br/>
+## 📈 Contribution Activity
 
 <div align="center">
 
+<img width="95%" src="./profile/activity-graph.svg" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 📱 Improving my React and React Native development skills.
+- ⚙️ Building backend applications with Node.js and NestJS.
+- 🗄️ Practicing database design and API development.
+- 🧠 Strengthening problem-solving and computer science fundamentals.
+- 🏗️ Learning software architecture, testing, and maintainable coding practices.
+- 🐳 Exploring Docker and modern development workflows.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, collaborate on projects, and exchange ideas.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosab-fouad-43b49a2b1)
+
 ### ⭐ Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep improving.*
 
 </div>
