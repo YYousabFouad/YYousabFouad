@@ -123,7 +123,7 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 <div align="center">
 
 <a href="https://github.com/YYousabFouad">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
 
 </div>
