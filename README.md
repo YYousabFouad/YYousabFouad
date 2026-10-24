@@ -2,11 +2,13 @@
 
 # Hi 👋, I'm Yosab Fouad
 
-### Software Engineering Student | Aspiring React Native Developer
+### React Native Developer | Aspiring Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Exploring+Mobile+%26+Backend+Development;Learning+Something+New+Every+Day" alt="Typing SVG" />
+Building cross-platform mobile applications and developing my skills across the software engineering stack.
 
-**Code • Learn • Build • Improve 🚀**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=61DAFB&center=true&vCenter=true&width=750&lines=React+Native+Developer;Building+Mobile+Applications;Backend+Development+with+Node.js;Aspiring+Software+Engineer" alt="Typing SVG" />
+
+**Build • Solve • Learn • Engineer 🚀**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosab-fouad-43b49a2b1)
@@ -17,15 +19,14 @@
 
 ## 👨‍💻 About Me
 
-- 📍 Based in Egypt.
-- 🎓 Software Engineering student.
-- 📱 Interested in building cross-platform mobile applications with **React Native**.
-- ⚙️ Exploring backend engineering with **Node.js, Express.js, NestJS, and MongoDB**.
+- 🎓 Software Engineering student based in Egypt.
+- 📱 React Native developer focused on cross-platform mobile application development.
+- ⚙️ Working with backend technologies including Node.js, Express.js, NestJS, and MongoDB.
 - 🧠 Strengthening my knowledge of data structures, algorithms, and software architecture.
-- 🛠️ I enjoy learning by building projects, solving problems, and experimenting with new tools.
+- 🛠️ Interested in building practical projects and writing clean, maintainable code.
 - 🤝 Open to collaboration, knowledge sharing, and opportunities to grow as a software engineer.
 
-My goal is to build reliable, maintainable, and user-focused software while continuously improving my engineering skills.
+My goal is to become a well-rounded software engineer who can build reliable mobile applications and understand the systems behind them.
 
 ---
 
@@ -34,13 +35,13 @@ My goal is to build reliable, maintainable, and user-focused software while cont
 ### Programming Languages
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ### Frontend Development
@@ -121,11 +122,9 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 <div align="center">
 
 <a href="https://github.com/YYousabFouad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Yosab's GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/YYousabFouad">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+</a><a href="https://github.com/YYousabFouad">
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
 
 </div>
@@ -134,13 +133,11 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 
 <div align="center">
 
-<img width="70%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
+<img width="80%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
 
@@ -152,10 +149,11 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 
 ## 🎯 Current Focus
 
-- 📱 Improving my React and React Native development skills.
-- ⚙️ Building backend applications with Node.js and NestJS.
+- 📱 Building and improving cross-platform applications with React Native.
+- ⚛️ Strengthening React, JavaScript, and TypeScript skills.
+- ⚙️ Developing backend applications with Node.js and NestJS.
 - 🗄️ Practicing database design and REST API development.
-- 🧠 Strengthening problem-solving and computer science fundamentals.
+- 🧠 Improving problem-solving and computer science fundamentals.
 - 🏗️ Learning software architecture, testing, and maintainable coding practices.
 - 🐳 Exploring Docker and modern development workflows.
 
