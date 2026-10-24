@@ -19,7 +19,8 @@ Building cross-platform mobile applications and developing my skills across the 
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student based in Egypt.
+- 📍 Based in Egypt.
+- 🎓 Software Engineering student.
 - 📱 React Native developer focused on cross-platform mobile application development.
 - ⚙️ Working with backend technologies including Node.js, Express.js, NestJS, and MongoDB.
 - 🧠 Strengthening my knowledge of data structures, algorithms, and software architecture.
@@ -122,10 +123,19 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 <div align="center">
 
 <a href="https://github.com/YYousabFouad">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-</a><a href="https://github.com/YYousabFouad">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
+
+</div>
+
+### 💻 What I'm Building My Skills In
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Primary_Focus-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Focus"/>
+<img src="https://img.shields.io/badge/Backend-Node.js_&_NestJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Development"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Goal-Software_Engineering-6F42C1?style=for-the-badge" alt="Software Engineering Goal"/>
 
 </div>
 
