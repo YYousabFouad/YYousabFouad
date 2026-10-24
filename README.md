@@ -4,8 +4,6 @@
 
 ### Software Engineering Student | Aspiring React Native Developer
 
-Building useful applications, exploring software architecture, and growing as a developer one project at a time.
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Exploring+Mobile+%26+Backend+Development;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 **Code • Learn • Build • Improve 🚀**
@@ -19,10 +17,11 @@ Building useful applications, exploring software architecture, and growing as a 
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student based in Egypt.
+- 📍 Based in Egypt.
+- 🎓 Software Engineering student.
 - 📱 Interested in building cross-platform mobile applications with **React Native**.
-- ⚙️ Exploring backend development with **Node.js, Express.js, NestJS, and MongoDB**.
-- 🧠 Strengthening my understanding of data structures, algorithms, and software architecture.
+- ⚙️ Exploring backend engineering with **Node.js, Express.js, NestJS, and MongoDB**.
+- 🧠 Strengthening my knowledge of data structures, algorithms, and software architecture.
 - 🛠️ I enjoy learning by building projects, solving problems, and experimenting with new tools.
 - 🤝 Open to collaboration, knowledge sharing, and opportunities to grow as a software engineer.
 
@@ -30,18 +29,18 @@ My goal is to build reliable, maintainable, and user-focused software while cont
 
 ---
 
-## 🧰 Technologies & Tools
+## 🧰 Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ### Frontend Development
@@ -58,13 +57,14 @@ My goal is to build reliable, maintainable, and user-focused software while cont
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
-### Backend Development
+### Backend Development & Databases
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs"/>
 </p>
 
@@ -77,12 +77,12 @@ My goal is to build reliable, maintainable, and user-focused software while cont
   <img src="https://img.shields.io/badge/Software_Architecture-6F42C1?style=for-the-badge" alt="Software Architecture"/>
 </p>
 
-### Developer Tools & Environment
+### Tools & Environment
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux"/>
@@ -90,29 +90,29 @@ My goal is to build reliable, maintainable, and user-focused software while cont
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects & Technical Work
 
-Here are some projects and areas of development I'm working on.
+### 📝 Blog API — NestJS & MongoDB
 
-### 📝 Blog API
+A backend application focused on modular architecture, REST API development, and database integration.
 
-A backend project focused on building RESTful APIs, organizing application modules, and working with databases.
+- **Technologies:** TypeScript, NestJS, MongoDB, Mongoose
+- **Focus:** Application modules, data modeling, and backend architecture.
 
-**Technologies:** NestJS · TypeScript · MongoDB
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/blog-api)
 
-[![Blog API](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/blog-api)
+### ⚙️ Backend Development Assignments
 
-### 🚗 AI-Based Vehicle Fault Detection & Predictive Maintenance
+Practical backend exercises involving Node.js application development, HTTP servers, file system operations, and API implementation.
 
-A graduation project concept that aims to analyze vehicle diagnostic information and user-reported symptoms to identify potential faults and provide useful maintenance recommendations.
+- **Technologies:** Node.js, Express.js, MongoDB, Mongoose
+- **Focus:** Routing, middleware, controllers, validation, error handling, and database operations.
 
-**Focus areas:** AI · Vehicle Diagnostics · Backend APIs · Database Design
+### 📚 Git & GitHub Documentation
 
-### ⚙️ Git Learning Documentation
+A dedicated repository for documenting Git and GitHub concepts, commands, version control workflows, and development practices.
 
-A documentation repository for learning Git and GitHub, organizing notes, and improving development workflows.
-
-[![Git Documentation](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/Git_Studying_Documentation-notes)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YYousabFouad/Git_Studying_Documentation-notes)
 
 ---
 
@@ -120,11 +120,19 @@ A documentation repository for learning Git and GitHub, organizing notes, and im
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<a href="https://github.com/YYousabFouad">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Yosab's GitHub Statistics"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<a href="https://github.com/YYousabFouad">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
 
-<br/>
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
 
 <img width="70%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 
@@ -146,7 +154,7 @@ A documentation repository for learning Git and GitHub, organizing notes, and im
 
 - 📱 Improving my React and React Native development skills.
 - ⚙️ Building backend applications with Node.js and NestJS.
-- 🗄️ Practicing database design and API development.
+- 🗄️ Practicing database design and REST API development.
 - 🧠 Strengthening problem-solving and computer science fundamentals.
 - 🏗️ Learning software architecture, testing, and maintainable coding practices.
 - 🐳 Exploring Docker and modern development workflows.
@@ -164,6 +172,6 @@ I'm always happy to connect with fellow developers, collaborate on projects, and
 
 ### ⭐ Thanks for visiting my profile!
 
-*Keep learning. Keep building. Keep improving.*
+*Keep learning. Keep building. Keep improving.* 🚀
 
 </div>
