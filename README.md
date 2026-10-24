@@ -122,9 +122,9 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 <div align="center">
 
 <a href="https://github.com/YYousabFouad">
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 </a><a href="https://github.com/YYousabFouad">
-  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YYousabFouad&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </a>
 
 </div>
@@ -133,7 +133,7 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 
 <div align="center">
 
-<img width="80%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
+<img width="60%" src="./profile/streak.svg" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -141,7 +141,7 @@ A dedicated repository for documenting Git and GitHub concepts, commands, versio
 
 <div align="center">
 
-<img width="95%" src="./profile/activity-graph.svg" alt="GitHub Contribution Graph"/>
+<img width="100%" src="./profile/activity-graph.svg" alt="GitHub Contribution Graph"/>
 
 </div>
 
