@@ -34,6 +34,24 @@ jobs:
 
           git add profile/activity-graph.svg
 
-          git commit -m "Update contribution graph" || exit 0
+          if git diff --cached --quiet; then
+            echo "Contribution graph is already up to date."
+            exit 0
+          fi
 
-          git push
+          git commit -m "Update contribution graph"
+
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; retrying after a short delay."
+            sleep "$((attempt * 5))"
+          done
+
+          echo "Unable to push the contribution graph after 3 attempts." >&2
+          exit 1
