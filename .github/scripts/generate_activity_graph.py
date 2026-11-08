@@ -4,8 +4,16 @@ from html.parser import HTMLParser
 import math
 import os
 import re
+from time import sleep
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
 from pathlib import Path
+
+MAX_HTTP_ATTEMPTS: int = 3
+RETRYABLE_HTTP_STATUS_CODES: frozenset[int] = frozenset(
+    {408, 429, 500, 502, 503, 504}
+)
+HTTP_RETRY_BACKOFF_SECONDS: tuple[int, int] = (2, 4)
 
 
 class ContributionCalendarParser(HTMLParser):
@@ -45,8 +53,24 @@ class ContributionCalendarParser(HTMLParser):
 def fetch_contributions(username):
     url = f"https://github.com/users/{username}/contributions"
     request = Request(url, headers={"User-Agent": "profile-contribution-graph/1.0"})
-    with urlopen(request, timeout=30) as response:
-        page = response.read().decode("utf-8", errors="replace")
+    for attempt in range(1, MAX_HTTP_ATTEMPTS + 1):
+        try:
+            with urlopen(request, timeout=30) as response:
+                page = response.read().decode("utf-8", errors="replace")
+            break
+        except HTTPError as error:
+            if (
+                error.code not in RETRYABLE_HTTP_STATUS_CODES
+                or attempt == MAX_HTTP_ATTEMPTS
+            ):
+                raise
+            delay = HTTP_RETRY_BACKOFF_SECONDS[attempt - 1]
+            print(
+                f"GitHub returned HTTP {error.code}; retrying in {delay} seconds "
+                f"(attempt {attempt + 1}/{MAX_HTTP_ATTEMPTS})",
+                flush=True,
+            )
+            sleep(delay)
 
     parser = ContributionCalendarParser()
     parser.feed(page)
