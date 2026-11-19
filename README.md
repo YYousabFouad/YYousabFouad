@@ -83,10 +83,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/YYousabFouad">
+    <img
+      width="60%"
+      src="https://github-readme-stats.vercel.app/api?username=YYousabFouad&amp;include_all_commits=true&amp;hide_rank=true&amp;hide=stars%2Cprs%2Cissues%2Ccontribs&amp;custom_title=All-time%20Commits&amp;theme=tokyonight&amp;hide_border=true"
+      alt="All-time commits from public GitHub repositories"
+    />
+  </a>
+  <br />
   <img
     width="60%"
     src="./profile/streak.svg"
-    alt="GitHub Streak Stats"
+    alt="GitHub contribution streak"
   />
 </p>
 
